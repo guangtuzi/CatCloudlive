@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_e46b459fd310af374fcf33d63e6906729eb89aac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_49111c9be081623e784af4baf37a2c3743570a02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.dou361.ijkplayer-arm64\jjdxm-ijkplayer-arm64\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ccf7ca40cefd9589343ccc59bba68923ed9b0ad6">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\com.dou361.ijkplayer-arm64-jjdxm-ijkplayer-arm64-1.0.0_961b8700cc5c73b66bcb91fc1cfa36d0d712b72e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.dou361.ijkplayer-x86_64\jjdxm-ijkplayer-x86_64\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4d3c38c54d7ff347d6179425dc866af9bd92aab1">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\com.dou361.ijkplayer-x86_64-jjdxm-ijkplayer-x86_64-1.0.0_f8a1bb950c69b2d2aa1e9644f37776e7a86a73d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_f2d9749779b2c1f697725348ee08e3946b7ec29a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_ed2a0dff8747ad555e71f39ff26d34d4f63b3d93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.dou361.ijkplayer\jjdxm-ijkplayer\1.0.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98625c30c5c0eead63e486e506c530264c6e2c08">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\com.dou361.ijkplayer-jjdxm-ijkplayer-1.0.6_4ba896ac0385c5f7395572fbbc1009ec7143accc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_caf5d14c5beae1ab8e7f310662a26184937c7c81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\tv.danmaku.ijk.media\ijkplayer-java\0.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a13789ec9e884e49740bb970550fabcb340466c1">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\tv.danmaku.ijk.media-ijkplayer-java-0.6.0_9118288d8b3a637ea1e268d4262b8ee2efb3f9dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_37984e26b75f8f0b02343c32842c15d0f2bbf63d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.36\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a525a7f2e266f577629f68820a462a807c66eec7">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\org.xutils-xutils-3.3.36_f2db2dfc9ad0187fc90391312981d97a4184c3c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_d1600f1882f87485f304bac7a1d19c61bf52be91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.dou361.ijkplayer-armv5\jjdxm-ijkplayer-armv5\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b0ae57757c2e50caa862eddbe8c2ae8f96b7289e">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\com.dou361.ijkplayer-armv5-jjdxm-ijkplayer-armv5-1.0.0_b766b589e39b016c8781aac4075598e62741508e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9abe1072e7aaa9632fb7e8c0cc56e9304e22b6d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pan\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\glide-3.7.0_242a269617a7250c40b71bb9a4ce31a7ac75928f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.dou361.ijkplayer-x86\jjdxm-ijkplayer-x86\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d3a2ed7c02adc7ac46d4107f841c0b800064709f">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\com.dou361.ijkplayer-x86-jjdxm-ijkplayer-x86-1.0.0_1de32375651ed611dedddc2e112591c282a5ad9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_4f16db601b99998cfdc9208823a71d7da8ce0e95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_858a1e4ddd53f7bb755ebed6ad271a801f77304f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a8deceb0538bb6b1fae96892e2855cf669f18583.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android_sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_33e60ef6a70659e5674fcba2dbd7a904b68c4545.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.dou361.ijkplayer-armv7a\jjdxm-ijkplayer-armv7a\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5c87419e00b1e6ffe0474ca65804fd32410ee3">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\com.dou361.ijkplayer-armv7a-jjdxm-ijkplayer-armv7a-1.0.0_d06a915acd9a64366032d38ef38f6fd63672051f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_edcbbe20c274f36410031de04b4b9e6170182837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pan\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_3d11a5412d47c8ede2e62f4ed5a2fd54db2fecdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_9c12bc9fa065039980e77f53704f570e0ff0de83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_eb27a70e26081d14b202d6448307f9f5befa2ffc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_596b9a266c7628f6b367220ca1f3280aea6faadd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3c11822cd4d7bb9b4f4d486b48a6a2e878b7d900.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\java_workspace\CatLiveVideo\app\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="E:\java_workspace\CatLiveVideo\app\build\intermediates\pre-dexed\debug\gson-2.2.4_a4c8880179fb154b771915d7e8701c1a4b70dd7e.jar" />
+    </item>
+
+</items>
