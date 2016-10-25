@@ -10,7 +10,7 @@ CatCloudlive项目中包含了android client端和tomcat server端以及一个my
 
 * 'MySql_database'：此为一个mysql数据库，尽情的修改它吧，当然在代码中要能体现出来^……^
 
-* `RTMP服务器端`：对于拉流过来的信号进行处理和转发，以及其他一些复杂功能，这个可以用nginx来做，但现在有一个很好的开源项目：[SRS](https://github.com/ossrs/srs/tree/2.0release)，SRS定位是运营级的互联网直播服务器集群，能将RTMP流接入SRS，进行各种转换，功能很强大，感兴趣的朋友可以前去学习了解。你可以自己搭建该服务器，当然为了测试没必要个人花钱买一个服务器来部署，本项目中采用SRS的一个公用的在线服务器用来测试：[SRS公用播放器](http://winlinvip.github.io/srs.release/trunk/research/players/srs_player.html?vhost=players)，它的服务器地址前缀是：rtmp://ossrs.net:1935/...，后面加上用户名和id即能转化为一个独立的直播地址（本项目是这么干的）。当然如果你自己部署rtmp服务器，你就填写该服务器的ip地址。
+* `RTMP服务器端`：对于拉流过来的信号进行处理和转发，以及其他一些复杂功能，这个可以用nginx来做，但现在有一个很好的开源项目：[SRS](https://github.com/ossrs/srs/tree/2.0release)，SRS定位是运营级的互联网直播服务器集群，能将RTMP流接入SRS，进行各种转换，功能很强大，感兴趣的朋友可以前去学习了解。你可以自己搭建该服务器，当然为了测试没必要个人花钱买一个服务器来部署，本项目中采用SRS的一个公用的在线服务器用来测试：[SRS公用播放器](http://winlinvip.github.io/srs.release/trunk/research/players/srs_player.html?vhost=players)，它的服务器地址前缀是：rtmp://ossrs.net:1935/...，后面加上用户名和id即能转化为一个独立的直播地址（本项目是这么干的）。当然如果你自己部署rtmp服务器，你就填写自己的服务器的ip地址。
 
 ##Attention
 * 修改CatCloudlive/CatCloudliveClient/app/src/main/java/com/catlivevideo/living/catlivevideo/bean/Url.java，把URL = "localhost:8080/CloudLiveVideoServer/"中的`localhost`改为你自己的服务器的ip，本机测试为localhost。
