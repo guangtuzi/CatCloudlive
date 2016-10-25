@@ -1,6 +1,6 @@
 package com.catlivevideo.living.catlivevideo.bean;
 public class Url {
-	public static final String URL = "localhost:8080/CloudLiveVideoServer/";
+	public static final String URL = "x.x.x.x.x:8080/CloudLiveVideoServer/";
 	public static final String REGISTE_PATH = URL+"user?flag=register";
 	public static final String LOGIN_PATH = URL+"user?flag=login";
 	public static final String GET_LIVE_COUNT = URL+"livecount";
